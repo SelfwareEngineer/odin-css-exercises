@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.test-class {
+    background-color: #ffa7a7;
+}
+
+#id1,
+#id3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#id2 {
+    font-size: 24px;
+}
+
+#id3 {
+    background-color: #80ff80;
+    font-weight: bold;
+}
